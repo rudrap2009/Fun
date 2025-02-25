@@ -46,4 +46,4 @@ elif (user_choice == 6):
 else:
     print("Invalid Input")
 print("Developed By Rudra")
-print("My Site = https://rudrasworld.infinityfreeapp.com")
+print("My Site = https://rudrasworld.infinityfreeapp.com/nFollow me on GitHub")
